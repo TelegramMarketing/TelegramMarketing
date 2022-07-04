@@ -20,6 +20,7 @@ Contact Only for Serious Business, clowns Stay Away.
 
 - Software Name: Flash Adder
 - price : 120$ with upcoming Free Updates + Lifetime Support 
+- [Watch Flash Adder Video Tutorial](https://www.youtube.com/watch?v=3mcr1mx9wb4&t=2s)
 - Add Members from Another Telegram Group to Your Telegram Group
 - Boost Your Business with Targeted, Real And Active Members
 - Latest working tool of 2022 with Safe and Fast Adding Modes
@@ -51,6 +52,7 @@ Contact Only for Serious Business, clowns Stay Away.
 
 - Software Name : Flash maker
 - Price : 150$ For Lifetime with upcoming Free Updates + live Support
+- [Watch Account Maker Video Tutorial](https://www.youtube.com/watch?v=VdyyIK_iD_8)
 - Easy To use Graphical user Interface
 - Fully Autometic
 - Telethon Based sessions maker
@@ -65,11 +67,14 @@ Contact Only for Serious Business, clowns Stay Away.
 - If number comes pre banned from websites it ll auto cancel.
 - If OTP doesnt comes in 2 minute it ll autocancel that number on site and request with new number
 
-## Telegram Shilling Bot
+## Telegram Group Shilling Bot
 
+- Software Name : TG Shill Bot
+- 120$ For Lifetime With Upcoming Free Updates + Live Support
+- [Watch Shilling Bot Video Tutorial](https://www.youtube.com/watch?v=hB5DB5F_Dnk)
 - used to spam/Spread text, links, media, token, etc in multiple groups 
 - Telethon Module Based
-- Loop Option Available
+- 24/7 Loop Option Available
 - Auto-Joins All groups
 - Ban filter option Available
 - Spam Checker Option Available
@@ -78,25 +83,42 @@ Contact Only for Serious Business, clowns Stay Away.
 - Run multiple Accounts at same Time
 - Send Messages to Multiple Groups
 - Puiblic/private modes
-- You can edit the delay timing between joining of groups,sending message to groups and the loop.
+- You can edit the delay timing between joining of groups
+- You can edit the delay timing between sending message to groups
+- You can edit the delay timing between Loop
 
-## Telegram Bulk Dm Sender
+## Telegram Bulk Personal Message Sender
 
+- Software Name : DM Sender
+- 100$ For Lifetime With Upcoming Free Updates + Live Support
+- [Watch DM Sender Video Tutorial](https://www.youtube.com/watch?v=iBSutYh5Ex8)
+- Easy to use - Boost Your Business By Sending DM To Targeted, Real and Active Members
 - Send Message to group members of any targeted or your compititors groups using this DM Tool
-- You can send media Message
+- Export/Scrap Members from Private groups
+- Export/Scap Members from Public groups
+- Scrap Active Members such as
+- Scrap 24 Hours Active Members
+- Scrap Within week Active Members
+- Scrap Within Month Active Members
+- Scrap All group Members
+- You can send Media Message
 - You can send Media + Text Message
 - You can send Normal Text Message 
-- You can spread Links 
-- Export/Scap Members from Private groups
-- Export/Scap Members from Public groups
+- You can spread Links Message
 - Ban Filter Available to auto remove banned number if any account got ban in case.
 - spam checker option available
 - You can set delay between sending Next DM
 - You can set how many DM you want to send from one telegram account
 - Hit Your ads directly to Members DM/Personal Inox of Telegram.
+
+
 ## Telegram Bulk forwared Bot
 
+- Software Name : Forwarder Bot
+- 100$ For lifetime with upcoming Free Updates + Live Support
 - Forward Message from your group/channel to group members of any targeted or your compititors groups using this DM Tool
+- Works Similar As Dm Sender But this tool have Forwarding Option Instead of Normal Message Sender
+- If you Buy DM Sender then 50% Discount Applied to Forwarder Bot
 - You can forward channel posts
 - You can Forward Groups Posts
 - Export/Scap Members from Private groups
