@@ -19,12 +19,14 @@ Contact Only for Serious Business, clowns Stay Away.
 ## Telegram Group Member adder
 
 - Software Name: Flash Adder
-- 120$ with upcoming Free Updates + Lifetime Support 
+- price : 120$ with upcoming Free Updates + Lifetime Support 
+- Add Members from Another Telegram Group to Your Telegram Group
+- Boost Your Business with Targeted, Real And Active Members
 - Latest working tool of 2022 with Safe and Fast Adding Modes
 - Easy to Install and use – (If you want us to do remotely installation then also we do it and it is free)
 - GUI Mode – Graphical user interface
 - Easy Configuration
-- Login infinite Number – You can log in to a lot of Telegram accounts without software there are no limitations for login
+- Login infinite Number – You can log in a lot of Telegram accounts without software there are no limitations for login
 - No need of Telegram Account API HASH and API ID ❌
 - Just Enter the Number and OTP of that Account ✔
 - Spam checker – there is a spam checking option to check whether your accounts are restricted or not by one click
@@ -35,7 +37,11 @@ Contact Only for Serious Business, clowns Stay Away.
 - Add Members to Private Groups
 - Delay time to add Next Members
 - Delay Timing is Editable - You can Increase For Slow Adding and Decrease for Fast Adding
-- Scrap members with filter option with Active Members
+- Scrap members with filter option Such As
+- Scrap 24 Hours Active Members
+- Scrap within week Active Members
+- Scrap within Month Active Members
+- Scrap All group Members
 - Need only Groups links for members scraping and members adding
 - Delete Already Added Members Option Avilable
 - Accounts Rotation – It Auto switches To the Next accounts and adds members
@@ -44,6 +50,9 @@ Contact Only for Serious Business, clowns Stay Away.
 
 
 - Software Name : Flash maker
+- Price : 150$ For Lifetime with upcoming Free Updates + live Support
+- Easy To use Graphical user Interface
+- Fully Autometic
 - Telethon Based sessions maker
 - Support websites API of sms-activate.org, 5sim.net , smspva.com
 - Auto Buy number and maker accounts
@@ -55,6 +64,7 @@ Contact Only for Serious Business, clowns Stay Away.
 - It makes sessions only 
 - If number comes pre banned from websites it ll auto cancel.
 - If OTP doesnt comes in 2 minute it ll autocancel that number on site and request with new number
+
 ## Telegram Shilling Bot
 
 - used to spam/Spread text, links, media, token, etc in multiple groups 
