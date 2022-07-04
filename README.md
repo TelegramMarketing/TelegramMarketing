@@ -19,6 +19,7 @@ Contact Only for Serious Business, clowns Stay Away.
 ## Telegram Group Member adder
 
 - Software Name: Flash Adder
+- 120$ with upcoming Free Updates + Lifetime Support 
 - Latest working tool of 2022 with Safe and Fast Adding Modes
 - Easy to Install and use – (If you want us to do remotely installation then also we do it and it is free)
 - GUI Mode – Graphical user interface
@@ -30,9 +31,13 @@ Contact Only for Serious Business, clowns Stay Away.
 - Ban Filter – if in case any of account get ban then you simply run thee ban filter option it ll filter the banned numbers automatically with a single click
 - ScrapMembers from public Groups
 - Scrap Members From Private Groups
-- Add Members to your group
-- Scrap members with filter option with some telegram limitations
+- Add Members to Public Groups
+- Add Members to Private Groups
+- Delay time to add Next Members
+- Delay Timing is Editable - You can Increase For Slow Adding and Decrease for Fast Adding
+- Scrap members with filter option with Active Members
 - Need only Groups links for members scraping and members adding
+- Delete Already Added Members Option Avilable
 - Accounts Rotation – It Auto switches To the Next accounts and adds members
 
 ## Telegram Auto Account Maker
