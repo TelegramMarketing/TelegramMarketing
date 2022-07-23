@@ -1,7 +1,7 @@
 
 # Telegram Marketing Softwares
 
-- Telegram Group Member adder Software
+- Telegram Group Member adder Software.
 - Telegram Auto Account Maker 
 - Telegram Shilling Bot
 - Telegram Bulk Dm Sender 
